@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'Open sans', sans-serif;
+	background: rgb(17, 86, 102); 
+}
+
+
+.container{
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  margin-top: 100px;
+  padding: 80px;
+}
+
+label{
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+
+input{
+  margin: 10;
+  height: 40px;
+  width: 500px;
+}
+
+button{
+  margin-top: 10px;
+  margin-bottom: 15px;
+  height: 30px;
+  width: 120px;
+  border-radius: 2px;
+}
